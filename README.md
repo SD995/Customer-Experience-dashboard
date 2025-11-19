@@ -191,9 +191,18 @@ This is how the dashboard identifies at-risk customers.
 
 ---
 
+
+---
+
+## 📄 Innovation Brief
+
+[Download: Innovation_Brief_NexGen_CX_Dashboard.pdf](assets/Innovation_Brief_NexGen_CX_Dashboard.pdf)
+
+---
+
 ## 🙌 Author
 
 **Subrata Das**  
- OFIServices — Option 4 (Customer Experience Dashboard)
+NexGen Logistics — Option 4 (Customer Experience Dashboard)
 
 *Note: NexGen Logistics is the case study company. The original company that gave the problem statement is OFIservices.*
